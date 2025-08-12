@@ -1,0 +1,30 @@
+-Run in CMD-
+
+npm create vite@latest
+
+Need to install the following packages:
+create-vite@7.1.1
+
+Ok to proceed? (y) y
+
+
+> npx
+> create-vite
+
+│
+◇  Project name:
+│  client
+│
+◇  Select a framework:
+│  React
+│
+◇  Select a variant:
+│  JavaScript
+│
+◇  Scaffolding project in C:\Users\NATHASHA\Desktop\Project-57\QUICKAI\client...
+│
+└  Done. Now run:
+
+  cd client      
+  npm install    
+  npm run dev    
