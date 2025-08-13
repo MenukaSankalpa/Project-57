@@ -40,4 +40,9 @@ cd client -> npm install ->
 -> npm install lucide-react        (`npm install lucide-react` installs Lucide, a modern and customizable icon library for React. 
                                     It provides a wide set of clean, SVG-based icons that you can easily use and style in your React projects.)
 
-11.07
+
+Google Vite + tailwindcss 
+
+-> npm install tailwindcss @tailwindcss/vite 
+
+Google.font use Outfit
