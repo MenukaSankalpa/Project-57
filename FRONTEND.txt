@@ -46,3 +46,5 @@ Google Vite + tailwindcss
 -> npm install tailwindcss @tailwindcss/vite 
 
 Google.font use Outfit
+
+30.9
