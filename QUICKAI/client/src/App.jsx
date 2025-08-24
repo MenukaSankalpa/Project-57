@@ -1,6 +1,6 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
-import Home from './pages/Home'
+import Home from './pages/Home.jsx'
 import Layout from './pages/Layout'
 import WriteArticle from './pages/WriteArticle'
 import Dashboard from './pages/Dashboard'
